@@ -43,7 +43,7 @@ function Users() {
   };
 
   return (
-    <div className="d-flex vh-100 bg-primary justify-content-center align-items-center">
+    <div className="d-flex vh-100 bg-primary justify-content-center align-items-center overflow-auto">
       <div className="w-50 bg-white rounded p-3">
         <div className="bg-white rounded p-3 text-center mb-4 mx-auto">
           <h1>User Management System</h1>
