@@ -46,7 +46,7 @@ function Users() {
     <div className="d-flex vh-100 bg-primary justify-content-center align-items-center overflow-auto">
       <div className="w-50 bg-white rounded p-3">
         <div className="bg-white rounded p-3 text-center mb-4 mx-auto">
-          <h1>User Management System</h1>
+          <h1>Hardware Inventory Management System</h1>
         </div>
         <Link to="/create" className="btn btn-success btn-sm">
           Add +
